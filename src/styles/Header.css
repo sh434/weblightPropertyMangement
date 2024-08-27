@@ -1,0 +1,8 @@
+nav#ftco-navbar {
+    background: #fff8f8e5 !important;
+    height: 100px;
+    /* color: black; */
+}
+a.nav-link {
+    color: black;
+}
